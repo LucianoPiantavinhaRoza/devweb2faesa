@@ -1,0 +1,38 @@
+body{
+    font-family: 'roboto', sans-serif;
+    background-color: lightcoral;
+}
+
+p{
+    margin-left: 50px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p.header{
+    text-align: center;
+    font-size: 12px;
+    margin-left: 0px;
+}
+
+p.footer{
+    text-align: center;
+    background-color: rgb(129, 255, 129);
+    margin-left: 0px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    background-color: #C4C4C4;
+    font-size: 15px;
+    padding: 5px;
+    text-align: center;
+    border: solid 2px black;
+}
+
+img{
+    text-align: center;
+}
